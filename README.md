@@ -1,3 +1,5 @@
+# LangChain Tool-Based Agent (Calculator Bot)
+
 **Overview:**
 This is a CLI-based assistant that uses Gemini via LangChain and includes a custom arithmetic calculator tool that can be invoked during conversations.
 
